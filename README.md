@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**I'm Pedro Sánchez**
+### Hi! 👋, I'm MrChunckuee. 
 
 - 📫 How to reach me: https://mrchunckuee.blogspot.com/
 
