@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Pedro Sánchez 
+
+- 📫 How to reach me: https://mrchunckuee.blogspot.com/
 
 <!--
 **MrChunckuee/MrChunckuee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
