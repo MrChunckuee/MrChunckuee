@@ -1,4 +1,4 @@
-### Hi! 👋 I'm MrChunckuee. 
+### Hi! 👋 *I'm MrChunckuee.*
 
 ![](https://github.com/MrChunckuee/MrChunckuee/blob/master/banner.png)
 
