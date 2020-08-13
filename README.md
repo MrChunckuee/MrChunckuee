@@ -2,7 +2,7 @@
 
 
 
-- 📫 You can check my projects and writings at ***[MrChunckuee's Blog](https://mrchunckuee.blogspot.com/)***
+- 📫 You can check my projects and writings at ***![MrChunckuee's Blog](https://mrchunckuee.blogspot.com/)*** 
 
 <!--
 **MrChunckuee/MrChunckuee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
