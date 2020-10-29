@@ -1,6 +1,6 @@
 ### Hi! 👋 *I'm MrChunckuee.*
 
-<!--  ![](https://github.com/MrChunckuee/MrChunckuee/blob/master/banner.png) -->
+![](https://github.com/MrChunckuee/MrChunckuee/blob/master/banner.png) 
 
 You can check my projects and writings at ***[MrChunckuee's Blog](https://mrchunckuee.blogspot.com/)*** 
  
