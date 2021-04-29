@@ -2,9 +2,8 @@
 
 ![Banner](https://github.com/MrChunckuee/MrChunckuee/blob/master/banner.jpg) 
 
-You can check my projects and writings at ***[MrChunckuee's Blog](https://mrchunckuee.blogspot.com/)*** 
-
-🎥 You can watch my videos on YouTube
+- 📫 You can check my projects and writings at ***[MrChunckuee's Blog](https://mrchunckuee.blogspot.com/)*** 
+- 🎥 You can watch my videos on ***[YouTube](https://www.youtube.com/c/mrchunckueepsr)***
  
 <!--
 **MrChunckuee/MrChunckuee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
