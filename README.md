@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/MrChunckuee/MrChunckuee/blob/master/banner.jpg) 
 
-- Follow me on Twitter
+- Follow me on ***[Twitter](https://twitter.com/MrChunckuee)***
 - 📫 You can check my projects and writings at ***[MrChunckuee's Blog](https://mrchunckuee.blogspot.com/)*** 
 - 🎥 You can watch my videos on ***[YouTube](https://www.youtube.com/c/mrchunckueepsr)***
 - 📷 You can check my photos on ***[Instagram](https://www.instagram.com/eyr_mrchunckuee/)***
