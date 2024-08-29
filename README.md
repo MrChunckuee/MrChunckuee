@@ -6,6 +6,7 @@
 - 📫 You can check my projects and writings at ***[MrChunckuee's Blog](https://mrchunckuee.blogspot.com/)*** 
 - 🎥 You can watch my videos on ***[YouTube](https://www.youtube.com/c/mrchunckueepsr)***
 - 📷 You can check my photos on ***[Instagram](https://www.instagram.com/mrchunckuee_electronics/)***
+- You can follow ***[the GitHub repository](https://github.com/MrChunckuee-Electronics/)*** of my blog
  
 <!--
 **MrChunckuee/MrChunckuee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
